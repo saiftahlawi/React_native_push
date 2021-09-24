@@ -61,7 +61,7 @@ const App = () => {
   }, [])
   return (
     <View>
-      <Text>Deneme</Text>
+      <Text>welcome</Text>
     </View>
   )
 }
